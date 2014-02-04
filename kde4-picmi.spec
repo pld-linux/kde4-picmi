@@ -4,12 +4,12 @@
 
 Summary:	picmi
 Name:		kde4-%{orgname}
-Version:	4.12.1
+Version:	4.12.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	002622ef3f3ca3be9632b839e5a02400
+# Source0-md5:	b3c805eab702733840f485685157c30c
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
